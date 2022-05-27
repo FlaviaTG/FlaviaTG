@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlaviaTG
-- 👀 I’m interested in genomics and evolution
+- 👀 I’m interested in genomics, evolution and social behavior
 - 🌱 I’m currently learning all "omics" tools I could use to answer my questions and explore genomes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email: fla.uamx@gmail.com or ftermignoni@fas.harvard.edu
